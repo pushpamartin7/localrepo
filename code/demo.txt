@@ -1,0 +1,1 @@
+this mode will  do not truncate the file
